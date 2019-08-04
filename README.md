@@ -6,7 +6,7 @@
 
 ## Technologies
 
-### Vue Javascript HTML CSS
+### Vue, Javascript, HTML, CSS
 
 ## Project setup
 
