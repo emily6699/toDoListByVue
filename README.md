@@ -2,7 +2,7 @@
 
 ## Description
 
-### Front end webpage by using vue.js
+### Front end webpage by using vue.js, you can add and delete todos in the list.
 
 ## Technologies
 
