@@ -2,11 +2,15 @@
 
 ## Description
 
-### Front end webpage by using vue.js, you can add and delete todos in the list.
+### Front end webpage only by using vue.js, you can add and delete todos in the list.
 
 ## Technologies
 
 ### Vue, Javascript, HTML, CSS
+
+## Webpage screenshot
+
+![img](https://github.com/emily6699/toDoListByVue/tree/master/public/webpage.png)
 
 ## Project setup
 
